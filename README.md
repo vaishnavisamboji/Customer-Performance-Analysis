@@ -68,39 +68,39 @@ Filled the null values by mean of that column. Performed *Exploratory Data Analy
 
 Line[39]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot.png' height=300px, width=350px></img>
+<img src='Images/newplot.png' height=300px, width=350px></img>
 
 Line[40]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot2.png' height=300px, width=350px></img>
+<img src='Images/newplot2.png' height=300px, width=350px></img>
 
 Line[41]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot3.png' height=300px, width=350px></img>
+<img src='Images/newplot3.png' height=300px, width=350px></img>
 
 Line[42]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot4.png' height=300px, width=350px></img>
+<img src='Images/newplot4.png' height=300px, width=350px></img>
 
 Line[43]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot5.png' height=300px, width=350px></img>
+<img src='Images/newplot5.png' height=300px, width=350px></img>
 
 Line[44]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot6.png' height=300px, width=350px></img>
+<img src='Images/newplot6.png' height=300px, width=350px></img>
 
 Line[45]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot7.png' height=300px, width=350px></img>
+<img src='Images/newplot7.png' height=300px, width=350px></img>
 
 Line[46]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot8.png' height=300px, width=350px></img>
+<img src='Images/newplot8.png' height=300px, width=350px></img>
 
 Line[47]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot9).png' height=300px, width=350px></img>
+<img src='Images/newplot9).png' height=300px, width=350px></img>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ## Tableau Dashboards:
@@ -108,12 +108,12 @@ Line[47]:
 Dashboard 1:
 (by **data_visuals.csv**)
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/Dashboard1.png'></img>
+<img src='Images/Dashboard1.png'></img>
 
 Dashboard 2:
 (by **data_visuals2.csv**)
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/Dashboard2.png'></img>
+<img src='Images/Dashboard2.png'></img>
 
 -----------------------------------------------------------------------------------------------------------------
 ## Thank You
